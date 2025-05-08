@@ -1,0 +1,17 @@
+*{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+
+.banner{
+    background-image: url(/portfolio/bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding:250px;
+    font-size:19px;
+    
+    
+}
+.skills-padding{
+    padding:70px 0;
+}
